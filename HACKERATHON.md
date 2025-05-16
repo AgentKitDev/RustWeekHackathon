@@ -1,5 +1,7 @@
 ## AgentKit: A Technical Vision for Building Universal AI-Automated Human-Computer Interaction Based on Rust (MVP Exploration)
 
+> I actually came up with this project idea back in April. Here’s the full blog post: [https://dev.to/zhanghandong/agentkit-a-technical-vision-for-building-universal-ai-automation-for-human-computer-interaction-2523](https://dev.to/zhanghandong/agentkit-a-technical-vision-for-building-universal-ai-automation-for-human-computer-interaction-2523)
+
 **Project Vision:** To create AgentKit, a universal AI automation suite built with Rust, enabling AI to understand and operate various application interfaces. ultimately achieving cross-platform, cross-device intelligent automation, and enhancing the efficiency and convenience of human-computer interaction.
 
 **This Hackathon's MVP Goal and Current Status:**
