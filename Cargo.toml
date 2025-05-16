@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "target_gpui_app",
+    "agentkit_layer",
+]
+resolver = "2"
